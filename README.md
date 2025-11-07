@@ -15,9 +15,9 @@
 
 ---
 
-## **1. Giới thiệu đề tài**
+## **Giới thiệu đề tài**
 
-Đề tài tập trung nghiên cứu và triển khai **thuật toán CART (Classification and Regression Tree)** – một trong những thuật toán cây quyết định phổ biến trong **Machine Learning**.  
+Đề tài tập trung nghiên cứu và triển khai **thuật toán CART (Classification and Regression Tree)** - một trong những thuật toán cây quyết định phổ biến trong **Machine Learning**.  
 CART có khả năng xử lý cả **bài toán phân lớp (Classification)** và **hồi quy (Regression)**, nhờ vào việc chia dữ liệu theo **Gini Index** (cho phân lớp) hoặc **Mean Squared Error (MSE)** (cho hồi quy).
 
 Nhóm áp dụng thuật toán này trên **bộ dữ liệu Airbnb tại thành phố Paris (Pháp)**, nhằm:
