@@ -25,3 +25,5 @@ Nhóm áp dụng thuật toán này trên **bộ dữ liệu Airbnb tại thành
 - Khai thác và hiểu rõ đặc trưng dữ liệu thực tế trong lĩnh vực dịch vụ lưu trú.  
 - Dự đoán **phân khúc giá cho thuê (price group)** của căn hộ dựa trên các yếu tố như vị trí, loại phòng, điểm đánh giá, số lượng khách, độ sạch sẽ, v.v.  
 - Phân tích **ưu – nhược điểm của CART** trong bối cảnh dữ liệu thực tế.
+
+## Link Colab: [https://drive.google.com/drive/folders/1-ZzCaqgaHb29SDoodTVFd2VE_OivzQeC?usp=drive_link](https://drive.google.com/drive/folders/1-ZzCaqgaHb29SDoodTVFd2VE_OivzQeC?usp=drive_link)
